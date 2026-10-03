@@ -1,17 +1,17 @@
 ---
 name: yijing-situation-reader
-description: 以象推卦 Yijing situation reader — 用户描述当前处境，匹配最贴切的卦与爻位，结合曾仕强《易经的智慧》讲解给出下一步行动，中英双语。Use when someone describes what is happening in their life or work and asks which I Ching hexagram fits, or what to do next.
+description: 以象推卦 Yi Jing (I Ching) Situation Reader — 用户描述当前处境，匹配最贴切的卦与爻位，结合曾仕强《易经的智慧》讲解给出下一步行动，中英双语。Use when someone describes what is happening in their life or work and asks which I Ching hexagram fits, or what to do next.
 ---
 
-# 以象推卦 · 易经处境解读 / Yijing Situation Reader
+# 以象推卦 · 易经处境解读 / Yi Jing (I Ching) Situation Reader
 
 把用户描述的"现在发生了什么"对应到六十四卦中最贴切的一卦，找出所处的爻位（阶段），再从综卦、错卦、互卦、之卦四个角度看清局面，最后给出具体可行的下一步。解读以曾仕强《易经的智慧》150集讲座的讲解为主线。
 
-Match what the user says is happening to the single best-fitting hexagram of the sixty-four, find the line (stage) they are at, look at the situation from four angles (reverse, inverse, nuclear and changed hexagrams), and end with concrete next steps. The reading follows Prof. Zeng Shiqiang's 150-episode lecture series *The Wisdom of the Yijing* (《易经的智慧》).
+Match what the user says is happening to the single best-fitting hexagram of the sixty-four, find the line (stage) they are at, look at the situation from four angles (reverse, inverse, nuclear and changed hexagrams), and end with concrete next steps. The reading follows Prof. Zeng Shiqiang's 150-episode lecture series *The Wisdom of the Yi Jing (I Ching)* (《易经的智慧》).
 
 曾仕强的基本立场贯穿全程：易经不是算命，而是"以象明理、以理指导行动"。"善易者不占"，真正明白道理的人看清处境自己就知道该怎么做；即便起卦，也要"自占自解、保有自主"。所以这里默认用**处境匹配**（以象推卦），而不是随机起卦；用户明确要求时才起卦（见文末）。
 
-Zeng's stance runs throughout: the Yijing is not fortune-telling but a way to understand principles through images and let those principles guide action. "Those who truly understand the Yijing do not divine" — once you see your situation clearly, you know what to do; and if you do cast a hexagram, you interpret it yourself and keep your own judgement. So this skill matches the **situation** by default rather than casting at random. Cast only when the user explicitly asks (see the end).
+Zeng's stance runs throughout: the Yi Jing (I Ching) is not fortune-telling but a way to understand principles through images and let those principles guide action. "Those who truly understand the Yi Jing (I Ching) do not divine" — once you see your situation clearly, you know what to do; and if you do cast a hexagram, you interpret it yourself and keep your own judgement. So this skill matches the **situation** by default rather than casting at random. Cast only when the user explicitly asks (see the end).
 
 ## 语言 / Language
 
