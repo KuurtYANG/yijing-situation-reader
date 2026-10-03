@@ -23,18 +23,37 @@ Most I Ching tools cast a hexagram at random and then fit the answer to your que
 
 ## 安装 / Install
 
-技能本体就是 [`yijing-situation-reader/SKILL.md`](yijing-situation-reader/SKILL.md) 这一个文件。 / The whole skill is the single file [`yijing-situation-reader/SKILL.md`](yijing-situation-reader/SKILL.md).
+有三种方式，任选其一。 / There are three ways; pick whichever suits you.
 
-**Claude.ai / Claude 桌面版 Desktop app**
-1. 下载 [`dist/yijing-situation-reader.zip`](dist/yijing-situation-reader.zip)。 / Download [`dist/yijing-situation-reader.zip`](dist/yijing-situation-reader.zip).
-2. 打开设置 → 功能 → 技能，上传这个 zip。 / Open Settings → Capabilities → Skills and upload the zip.
+**方式一：不用安装，直接试 / Option 1: Try it without installing**
 
-**Claude Code**
-```bash
-git clone https://github.com/KuurtYANG/yijing-situation-reader.git
-mkdir -p ~/.claude/skills
-cp -r yijing-situation-reader/yijing-situation-reader ~/.claude/skills/
+在任何一个 Claude 对话里粘贴下面这段话，把省略号换成你的处境。Claude 需要能联网读取网页。 / Paste this into any Claude chat, replacing the dots with your situation. Claude needs web access to read the page.
+
 ```
+请先读取 https://raw.githubusercontent.com/KuurtYANG/yijing-situation-reader/main/yijing-situation-reader/SKILL.md ，然后按照里面的步骤解读我的处境：……
+
+Please read https://raw.githubusercontent.com/KuurtYANG/yijing-situation-reader/main/yijing-situation-reader/SKILL.md and follow its steps to read my situation: …
+```
+
+**方式二：Claude 网页版和桌面版 / Option 2: Claude.ai and the Claude desktop app**
+
+1. 下载 zip 文件：[yijing-situation-reader.zip](https://raw.githubusercontent.com/KuurtYANG/yijing-situation-reader/main/dist/yijing-situation-reader.zip)（点击即下载，不用解压）。 / Download the zip: [yijing-situation-reader.zip](https://raw.githubusercontent.com/KuurtYANG/yijing-situation-reader/main/dist/yijing-situation-reader.zip) (the link downloads it directly; don't unzip it).
+2. 确认已开启"代码执行"（Settings → Capabilities）。技能需要这个功能才能运行。 / Make sure code execution is turned on (Settings → Capabilities); skills need it to run.
+3. 打开 **Customize → Skills**，点 **+**，选 **Create skill**，再选 **Upload a skill**，上传刚才的 zip。 / Open **Customize → Skills**, click **+**, choose **Create skill**, then **Upload a skill**, and upload the zip.
+4. 确认技能开关已打开，然后新开一个对话，直接描述你的处境。 / Check the skill is switched on, then start a new chat and describe your situation.
+
+每个人都需要在自己的账号里上传一次。Team 和 Enterprise 方案上传后可以分享给同事。 / Each person uploads it once to their own account. On Team and Enterprise plans you can share it with colleagues after uploading.
+
+**方式三：Claude Code / Option 3: Claude Code**
+
+在 Claude Code 里输入这两条命令： / Run these two commands inside Claude Code:
+
+```
+/plugin marketplace add KuurtYANG/yijing-situation-reader
+/plugin install yijing-situation-reader@yijing-skills
+```
+
+也可以在终端里运行 `claude plugin marketplace add KuurtYANG/yijing-situation-reader` 和 `claude plugin install yijing-situation-reader@yijing-skills`。安装后开一个新会话即可。以后有更新，运行 `/plugin marketplace update yijing-skills`。 / Or run `claude plugin marketplace add KuurtYANG/yijing-situation-reader` and `claude plugin install yijing-situation-reader@yijing-skills` in your terminal. Start a new session afterwards. To get updates later, run `/plugin marketplace update yijing-skills`.
 
 ## 使用 / Usage
 
