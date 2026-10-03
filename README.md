@@ -1,16 +1,16 @@
-# 以象推卦 · Yijing Situation Reader
+# 以象推卦 · Yi Jing (I Ching) Situation Reader
 
 一个 Claude 技能（Skill）：你描述现在发生了什么，它找出最贴切的卦和你所处的阶段（爻位），从四个角度帮你看清局面，再告诉你下一步该怎么做。解读以曾仕强教授《易经的智慧》150 集讲座为主线，中英双语输出。
 
-A Claude Skill: describe what is happening in your life or work, and it finds the best-fitting I Ching hexagram and the stage (line) you are at, shows the situation from four angles, and suggests what to do next. The reading follows Prof. Zeng Shiqiang's 150-episode lecture series *The Wisdom of the Yijing* (《易经的智慧》), with answers in both Chinese and English.
+A Claude Skill: describe what is happening in your life or work, and it finds the best-fitting I Ching hexagram and the stage (line) you are at, shows the situation from four angles, and suggests what to do next. The reading follows Prof. Zeng Shiqiang's 150-episode lecture series *The Wisdom of the Yi Jing (I Ching)* (《易经的智慧》), with answers in both Chinese and English.
 
-> 易经不是算命，而是以象明理、以理指导行动。 / The Yijing is not fortune-telling; it is a way to see principles through images and let them guide action.
+> 易经不是算命，而是以象明理、以理指导行动。 / The Yi Jing (I Ching) is not fortune-telling; it is a way to see principles through images and let them guide action.
 
 ## 有什么不同 / What makes it different
 
 大多数易经工具先随机起卦，再把结果套到你的问题上。这个技能反过来：**先看你的处境，再找对应的卦**（以象推卦）。这正合曾仕强所说的"善易者不占"——看清处境，自己就知道该怎么做。需要的话也可以用三枚铜钱法起卦。
 
-Most I Ching tools cast a hexagram at random and then fit the answer to your question. This skill works the other way round: **it starts from your situation and finds the hexagram that matches it**. That follows Zeng's point that "those who truly understand the Yijing do not divine." Traditional three-coin casting is still available if you ask for it.
+Most I Ching tools cast a hexagram at random and then fit the answer to your question. This skill works the other way round: **it starts from your situation and finds the hexagram that matches it**. That follows Zeng's point that "those who truly understand the Yi Jing (I Ching) do not divine." Traditional three-coin casting is still available if you ask for it.
 
 每次解读包括 / Each reading covers:
 

@@ -1,6 +1,6 @@
 # 使用指南 · User Guide
 
-《以象推卦 · Yijing Situation Reader》使用说明 / How to use the Yijing Situation Reader skill
+《以象推卦 · Yi Jing (I Ching) Situation Reader》使用说明 / How to use the Yi Jing (I Ching) Situation Reader skill
 
 ---
 
@@ -153,7 +153,7 @@ It uses the three-coin method, with a genuinely random result produced by code, 
 
 - **一次只问一件事。** 几件事混在一起，匹配会变得模糊。 / **One situation at a time.** Mixing several issues blurs the match.
 - **说事实，也说感受。** "老板说了什么"比"老板很讨厌"更有用，但你的状态也很重要。 / **Give facts as well as feelings.** "What the boss said" helps more than "the boss is awful", but your own state matters too.
-- **情况变了就再问。** 易经讲变化，局面变了，卦也会变。 / **Ask again when things change.** The Yijing is about change; when the situation shifts, so does the hexagram.
+- **情况变了就再问。** 易经讲变化，局面变了，卦也会变。 / **Ask again when things change.** The Yi Jing (I Ching) is about change; when the situation shifts, so does the hexagram.
 - **不认同就说出来。** 如果觉得某一卦不贴切，告诉它原因，它会重新判断。 / **Push back if it doesn't fit.** If a hexagram feels wrong, say why and it will reconsider.
 - **重大决定另找专业意见。** 涉及健康、法律、财务的事，解读只能作为参考。 / **Get professional advice for big decisions.** For health, legal or financial matters, treat the reading as one perspective only.
 
@@ -163,9 +163,9 @@ It uses the three-coin method, with a genuinely random result produced by code, 
 
 **为什么默认不起卦？ / Why doesn't it cast a hexagram by default?**
 曾仕强认为"善易者不占"：看清处境，自己就知道该怎么做。从处境出发找卦，比随机起卦更贴近你的实际情况。
-Zeng held that "those who truly understand the Yijing do not divine": once you see your situation clearly, you know what to do. Starting from your situation gives a reading closer to your real circumstances than a random cast.
+Zeng held that "those who truly understand the Yi Jing (I Ching) do not divine": once you see your situation clearly, you know what to do. Starting from your situation gives a reading closer to your real circumstances than a random cast.
 
-**需要先学易经吗？ / Do I need to know the Yijing first?**
+**需要先学易经吗？ / Do I need to know the Yi Jing (I Ching) first?**
 不需要。每个术语都会用白话解释，直接描述你的处境就行。
 No. Every term is explained in plain words; just describe your situation.
 
