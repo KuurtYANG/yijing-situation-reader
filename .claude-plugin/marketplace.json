@@ -1,7 +1,7 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "yijing-skills",
-  "description": "以象推卦 · Yijing Situation Reader — a bilingual (中文/English) skill that matches your situation to an I Ching hexagram, based on Zeng Shiqiang's lectures",
+  "description": "以象推卦 · Yi Jing (I Ching) Situation Reader — a bilingual (中文/English) skill that matches your situation to an I Ching hexagram, based on Zeng Shiqiang's lectures",
   "owner": {
     "name": "KuurtYANG",
     "url": "https://github.com/KuurtYANG"
@@ -9,10 +9,10 @@
   "plugins": [
     {
       "name": "yijing-situation-reader",
-      "displayName": "以象推卦 · Yijing Situation Reader",
+      "displayName": "以象推卦 · Yi Jing (I Ching) Situation Reader",
       "source": "./",
       "description": "Describe your situation and get the best-matching I Ching hexagram, your stage (line), four angles on it, and concrete next steps. Chinese and English.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": { "name": "KuurtYANG" },
       "homepage": "https://github.com/KuurtYANG/yijing-situation-reader",
       "repository": "https://github.com/KuurtYANG/yijing-situation-reader",
